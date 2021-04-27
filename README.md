@@ -1,1 +1,1 @@
-# Geo.Control.Rig
+# Project geologial rig
